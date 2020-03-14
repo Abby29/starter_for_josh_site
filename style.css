@@ -28,7 +28,7 @@ a:hover {
 }
 
 .navbar-toggle  .icon-bar {
-    background: whit;
+    background: white;
 }
 
 .herobg {
@@ -123,6 +123,6 @@ footer {
 
 .footer-content {
     margin-top: 30px; 
-    margin=bottom: 30px;
+    margin-bottom: 30px;
     color: white;
 }
