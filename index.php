@@ -21,7 +21,7 @@
                         </div>
                     
                         <div class="col-md-4 article-cent">
-                            <img class="img-responsive" alt="portrait" src="images/image1.jpg">
+                            <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh14/wp-content/themes/starter_for_josh_site/images/image1.jpg">>
                             <h4> A PORTRAIT </h4>
                         <p class="date"> 12 December 2020 </p>
                             <p> STS has never been shy of seeking new terrains of investigation and more STS scholars are starting to explore and intervene. This object of study brings new challenges and opportunities that want to explore in this session. We would like to gather first of a simply new kinds of knowledge arising from STS study of the arts</p>
@@ -30,7 +30,7 @@
                         </div>
                         
                            <div class="col-md-4 article-cent">
-                               <img class="img-responsive" alt="portrait" src="images/image2.jpg">
+                               <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh14/wp-content/themes/starter_for_josh_site/images/image2.jpg">
                             <h4> A MODEL </h4>
                         <p class="date"> 12 December 2020 </p>
                             <p> STS has never been shy of seeking new terrains of investigation and more STS scholars are starting to explore and intervene. This object of study brings new challenges and opportunities that want to explore in this session. We would like to gather first of a simply new kinds of knowledge arising from STS study of the arts</p>
@@ -39,7 +39,7 @@
                         </div>
                         
                            <div class="col-md-4 article-cent">
-                               <img class="img-responsive" alt="portrait" src="images/image3.jpg">
+                               <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh14/wp-content/themes/starter_for_josh_site/images/image3.jpg">>
                             <h4> GAMES DESIGN </h4>
                         <p class="date"> 12 December 2020 </p>
                             <p> STS has never been shy of seeking new terrains of investigation and more STS scholars are starting to explore and intervene. This object of study brings new challenges and opportunities that want to explore in this session. We would like to gather first of a simply new kinds of knowledge arising from STS study of the arts</p>
